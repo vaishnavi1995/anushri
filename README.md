@@ -1,1 +1,4 @@
 # anushri
+nazli
+tuglo
+oglu
